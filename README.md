@@ -1,6 +1,6 @@
 # Hotel Website
 
-You can run the website at : [https://wondrous-smakager-7df1cf.netlify.app/](https://wondrous-smakager-7df1cf.netlify.app/)
+You can run the website at : [https://inspiring-boba-f175ff.netlify.app/](https://inspiring-boba-f175ff.netlify.app/)
 
 I used the Netlify to deploy the website and their service to handle the forms submissions. 
 
