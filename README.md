@@ -28,7 +28,7 @@ I reset the margin and padding to 0 and the box-sizing to border-box in order to
 }
 ```
 
-I used a script form [https://fontawesome.com/](https://fontawesome.com/) to get the icons used in this project: 
+I used a script form [https://fontawesome.com/](https://fontawesome.com/) to get the icons used in this project : 
 
 ```html
 <script src="https://kit.fontawesome.com/40cf33b90c.js" crossorigin="anonymous"></script>
