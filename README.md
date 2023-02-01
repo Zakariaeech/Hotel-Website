@@ -1,6 +1,6 @@
 # Hotel Website
 
-You can run the website at : [https://wondrous-smakager-7df1cf.netlify.app/](https://wondrous-smakager-7df1cf.netlify.app/)
+You can run the website at : [https://inspiring-boba-f175ff.netlify.app/](https://inspiring-boba-f175ff.netlify.app/)
 
 I used the Netlify to deploy the website and their service to handle the forms submissions. 
 
@@ -28,7 +28,7 @@ I reset the margin and padding to 0 and the box-sizing to border-box in order to
 }
 ```
 
-I used a script form [https://fontawesome.com/](https://fontawesome.com/) to get the icons used in this project: 
+I used a script form [https://fontawesome.com/](https://fontawesome.com/) to get the icons used in this project : 
 
 ```html
 <script src="https://kit.fontawesome.com/40cf33b90c.js" crossorigin="anonymous"></script>
