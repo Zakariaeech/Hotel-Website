@@ -38,8 +38,12 @@ I used a script form [https://fontawesome.com/](https://fontawesome.com/) to get
 <i class="fa-solid fa-hotel fa-3x"></i>
 ```
 
-You can find all images in the folder img 
+You can find all images used in the folder img 
 
-and the stylesheet in css folder
+and the stylesheets in css folder
 
-I hope you like this website even if it’s not responsive in some parts
+I used media queries to get the website responsive in the mobile devices, you can find the stylesheet in css folder :
+
+```html
+<link rel="stylesheet" media="screen and (max-width: 768px)" href="/css/mobile.css">
+```

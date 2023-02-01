@@ -65,12 +65,6 @@ p {
 }
 
 /* Padding */
-.py-1 {
-  padding: 10px 0;
-}
-.py-2 {
-  padding: 20px 0;
-}
 .py-3 {
   padding: 30px 0;
 }
@@ -106,7 +100,7 @@ p {
   color: #fff;
 }
 
-#navbar h1 {
+#navbar .logo {
   float: left;
   padding-top: 20px;
 }
@@ -156,7 +150,7 @@ p {
 
 /* Home Info */
 #home-info {
-  height: 400px;
+  height: 450px;
 }
 
 #home-info .info-img {
@@ -214,7 +208,7 @@ p {
 
 /* Testimonials */
 #testimonials {
-  height: 600px;
+  height: 100%;
   background: url("/img/test-bg.jpg") no-repeat center center/cover;
   padding-top: 100px;
 }
